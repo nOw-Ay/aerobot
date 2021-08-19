@@ -1,0 +1,2 @@
+DISCORDTOKEN=examplediscordtoken
+NASATOKEN=examplenasatoken
